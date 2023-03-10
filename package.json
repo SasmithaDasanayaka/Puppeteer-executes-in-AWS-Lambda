@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1330.0",
+    "chrome-aws-lambda": "^10.1.0",
+    "csvtojson": "^2.0.10",
+    "needle": "^3.2.0",
+    "puppeteer-core": "^10.4.0"
+  }
+}
